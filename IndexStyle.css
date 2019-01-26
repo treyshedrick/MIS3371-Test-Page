@@ -1,0 +1,21 @@
+@charset "UTF-8";
+.center
+{
+	
+}
+p
+{
+	color:skyblue;
+	font-size:35px;
+}
+div
+{
+	color:skyblue;
+	font-weight:bold;
+	font-size:30px;
+}
+body
+{
+	
+	background:white;
+}
