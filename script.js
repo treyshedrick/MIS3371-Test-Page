@@ -1,4 +1,4 @@
-
+//Search Value button in HTML does not need to be filled in order to excute function p2().
 function p1()
 {
 /*Use lines 5-17 if exam 2
@@ -16,8 +16,9 @@ function p1()
 	   xmlDoc=parser.parseFromString(d,"text/xml");
 	   root=xmlDoc.documentElement;
 */
-//Exam answers start here
-	  
+	//os string will need to be empty before practicing
+	os = "test";
+	p1_out.innerHTML = os;
 	   
 }
 
